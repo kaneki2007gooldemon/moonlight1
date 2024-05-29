@@ -1,0 +1,52 @@
+header{
+  display: flex;
+  justify-content: space-around;
+ 
+}
+.header-1{
+  padding-right: 1100px;
+}
+.header-2{
+  display: flex;
+  padding-top: 20px;
+}
+.header-2 p{
+  margin-left: 35px;
+}
+.header-2 img{
+  width: 16px;
+  height: 21px;
+  margin-top: 16px;
+  margin-left: 35px;
+  
+}
+.after-header{
+  display: flex;
+  justify-content:space-around;
+  padding-top: 70px;
+}
+.textAL {
+ text-align: center;
+ padding-top: 61px;
+ font-size: 27px;
+}
+.textAL h1{
+  font-weight: 500;
+  height: 40px;
+}
+.textAL button{
+  height: 41px;
+  width: 141px;
+  color: black;
+  font-size: 16px;
+  font-weight: 100;
+  border-radius: 1px;
+  border-width: 1px;
+  border-color: #B3BAC1;
+  background-color: transparent;
+  margin-top: 40px;
+}
+.after-header img{
+  width: 400px;
+  height: 500px;
+}
